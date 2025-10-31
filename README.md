@@ -1,6 +1,8 @@
 # Basit-TCP-Chat-Uygulamas-stemci-sunucu-mesajla-ma
 Amaç: İki bilgisayar veya iki terminal arasında TCP üzerinden mesajlaşma sağlamak.
+
 Çalıştırma Sırası (İki Terminal Gerekli):
+
 İlk terminalde (Sunucu tarafı):
 python server.py
 → “Sunucu dinliyor...” yazısı çıkar.
