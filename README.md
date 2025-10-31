@@ -3,10 +3,10 @@ Amaç: İki bilgisayar veya iki terminal arasında TCP üzerinden mesajlaşma sa
 
 Çalıştırma Sırası (İki Terminal Gerekli)
 
-İlk terminalde (Sunucu tarafı): python server.py
+İlk terminalde (Sunucu tarafı): python server.py kodunu ekleyin.
 → “Sunucu dinliyor...” yazısı çıkar.
 
-İkinci terminalde (İstemci tarafı): python client.py
+İkinci terminalde (İstemci tarafı): python client.py kodunu ekleyin.
 → “Sunucuya bağlanıldı.” yazar.
 
 Artık mesajlaşabilirsiniz 🎉
@@ -15,7 +15,7 @@ Artık mesajlaşabilirsiniz 🎉
 
 İstemci terminali:
 Sen: Merhaba
-Sunucu: Merhaba
+Sunucu: Merhaba 
 
 Sunucu terminali:
 İstemci: Merhaba
